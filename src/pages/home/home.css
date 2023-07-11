@@ -1,0 +1,21 @@
+.homeContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4D-REdvoDtDv7Gj1-e9bpGzAnM1tU_hNEw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;*/
+    
+
+}
+.homeTitle{
+    width: 1024px;
+    font-size: 20px;
+    
+}
+/*.shre{
+    position:sticky;
+    top: 0;
+}*/

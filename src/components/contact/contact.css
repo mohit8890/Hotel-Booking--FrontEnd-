@@ -1,0 +1,24 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.ft{
+    margin-left: 180px;
+
+}
+.pl{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.terms1{
+    width: 100%;
+    max-width: 1024px;
+    margin-left: 200px;
+}

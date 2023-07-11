@@ -1,0 +1,47 @@
+.footer{
+    width: 100%;
+    max-width: 1024px;
+    font-size: 20px;
+  
+}
+.fLists{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
+.fText{
+    margin-left: 400px;
+    font-size: 18px;
+    
+   
+
+   
+}
+.fList{
+    list-style: none;
+
+}
+.fListItem{
+    color: blueviolet;
+    cursor: pointer;
+    
+}
+.fListItem:hover{
+    transform: scale(1.04);}
+
+.logo1{
+    
+        height: 40px;
+        width: 40px;
+        border-style: double;
+        
+        border-radius: 100px;
+    }   
+.sp123{
+    margin-right: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+   
+}    

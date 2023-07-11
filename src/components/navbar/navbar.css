@@ -1,0 +1,82 @@
+.navbar{
+    
+    height: 150px;
+    background-color:#3e484f;
+    display: flex;
+    justify-content: center;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6wFO91ABW6Tc52mNGHbHsKPth-4qe0OZLA&usqp=CAU"); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    
+    
+   
+}
+
+.navContainer{
+    
+    width: 100%;
+    max-width: 1200px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 110px;
+    width: 110px;
+    border-style:dotted;
+    border-radius: 100px;
+}
+.logo:hover{
+    transform: scale(1.04);
+    
+}
+.logo2:hover{
+    transform: scale(1.04);}
+.logo2{
+    height: 60px;
+    width: 60px;
+    
+  
+   
+    border-radius: 100px;
+}
+
+.navButton{
+    margin-left: 20px;
+    
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    background-color: blue;
+}
+.prologo{
+    height: 25px;
+    width: 25px;
+}
+.homename{
+    font-weight: 500px;
+    font-size: 20px;
+    padding-left: 25px;
+    padding-top: 0px;
+    border: 1px solid white;
+
+    border-radius: 20px;
+}
+.username{
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.username:hover{
+    transform: scale(1.04);}
+.item {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    position: relative;}
+    .navButton:hover{
+        transform: scale(1.04);}   
